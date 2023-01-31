@@ -1,10 +1,14 @@
 <template>
 
-    <h2>hola mundo desde otro component</h2>
+  <h1 class="bg-primary text-white text-center p-2">hola desde vue con boostrap</h1>
 
 
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis ea distinctio, repellendus, expedita deleniti totam tempore error quisquam aut eaque iusto consequuntur ut neque quia doloribus velit odio quidem dignissimos!</p>
+
+
+
+      
 </template>
+
 
 <script>
 
@@ -21,9 +25,9 @@ export default {
 
 <style scoped>
 h2{
-    color: aqua;
+    color: rgb(29, 16, 62);
 }
 p{
-    color: yellow;
+    color: rgb(2, 2, 2);
 }
 </style>
